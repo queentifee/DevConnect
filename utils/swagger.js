@@ -14,10 +14,10 @@ const options = {
                 url: "http://localhost:5000/",
                 description: 'Production server',
             },
-            // {
-            //     url: "https://joe-backend-6682.onrender.com", 
-            //     description: "Live server",
-            // },
+            {
+                url: "https://devconnect-zz93.onrender.com", 
+                description: "Live server",
+            },
             
         ],
         components: {
