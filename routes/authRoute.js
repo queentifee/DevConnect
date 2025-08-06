@@ -71,7 +71,7 @@ router.post('/users', registerUser);
 
 
 
-router.post('/login', loginUser);
+router.post('/tokens', loginUser);
 
 /**
  * @swagger
