@@ -20,8 +20,7 @@ const routes = [
   { path: '/logs', file: './routes/bugLog' },
   { path: '/post', file: './routes/postRoute' },
   { path: '/file', file: './routes/uploadRoute' },
-
-
+  { path: '/ai', file: './routes/AiRoute.js' },
 
 ];
 
